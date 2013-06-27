@@ -1,6 +1,5 @@
-.classpath
-.project
-project.properties
-/assets
-/bin
-/gen
+bin/
+gen/
+proguard/
+*.dex
+*.class
